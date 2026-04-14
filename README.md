@@ -1,13 +1,13 @@
-# 🚀 Final Year CSE Portfolio | Ravi Kumar Sharma
+ Final Year CSE Portfolio | Ravi Kumar Sharma
 
 Welcome to my professional portfolio repository. This project showcases my journey as a **Computer Science & Engineering** student at **Sharda University**, featuring a high-performance, single-file web architecture built with modern web technologies.
 
-## 🌐 Live Demo
+ Live Demo
 **[View Live Portfolio Here](https://your-github-username.github.io/your-repo-name/)**
 
 ---
 
-## 🛠️ Built With
+ Built With
 This portfolio was developed using a "Clean Code" approach, combining all layers into a single optimized file for maximum loading speed.
 
 * **HTML5:** Semantic structure for SEO and accessibility.
@@ -17,23 +17,21 @@ This portfolio was developed using a "Clean Code" approach, combining all layers
     * **Asynchronous Logic:** Optimized for zero-latency rendering.
 
 ---
+💻 Technical Highlights
 
-## 💻 Technical Highlights
-
-### 🚀 Key Projects Featured
+ Key Projects Featured
 * **Associate Editor:** A real-time collaborative document platform using **Next.js** and **Firebase**. 
 * **Robotics Learning Platform:** A documentation and landing hub for educational robotics.
 * **Algorithm Proficiency:** Demonstrating mastery in **C++** and Data Structures.
 
-### 📈 Core Competencies
+Core Competencies
 * Full-Stack Web Development (React/Next.js/Node.js)
 * Database Management (SQL & NoSQL/Firestore)
 * IoT System Architecture
 * Version Control (Git/GitHub)
 
 ---
-
-## 📂 Project Structure
+📂 Project Structure
 ```text
 .
 ├── index.html    # Contains HTML structure, CSS styling, and JS logic
